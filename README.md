@@ -1,1 +1,1 @@
-# clipboard-landing-page
+# clipboard-landing-page challenge from "frontendmentor.io".
